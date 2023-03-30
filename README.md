@@ -10,3 +10,5 @@ To understand what data is available in the live stats endpoint, run the the nba
 nba_api requires Python 3.7+
 
 pip install nba_api
+
+Here's some additional testing info.
